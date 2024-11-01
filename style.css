@@ -42,14 +42,15 @@ body{
 }
 
 .movie {
-    width: 240px;
-    margin: 10px;
     position: relative;
+    width: 260px;
+    margin: 10px;
 }
 
 .movie__cover-inner {
     position: relative;
     height: 360px;
+    width: 240px;
 }
 
 .movie_cover {
